@@ -1,0 +1,28 @@
+div {
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+}
+
+.div1 {
+    background-color: rgb(114, 0, 202);
+    float: left;
+}
+
+.div2 {
+    background-color: rgb(227, 0, 0);
+    float: right;
+}
+
+article {
+    background-color: violet;
+    overflow: hidden;
+}
+
+p {
+    background-color: aqua;
+    clear: both;
+}
